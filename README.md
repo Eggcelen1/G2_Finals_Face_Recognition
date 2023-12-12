@@ -36,7 +36,7 @@
 </div>
 <div align = "center">
    
-##  𝔾𝕚𝕥𝕙𝕦𝕓 𝕒𝕤 𝕊𝕠𝕦𝕣𝕔𝕖
+##  ℂ𝕠𝕕𝕖𝕤: 𝔾𝕚𝕥𝕙𝕦𝕓 𝕒𝕤 𝕊𝕠𝕦𝕣𝕔𝕖
 </div>
 
     !git clone https://github.com/Eggcelen1/G2_Finals_Face_Recognition.git
@@ -45,7 +45,7 @@
 ---
 <div align = "center">
    
-##  ℂ𝕠𝕕𝕖𝕤 𝕌𝕤𝕚𝕟𝕘 𝕂𝕟𝕠𝕨𝕟 𝕀𝕞𝕒𝕘𝕖𝕤
+##  ℂ𝕠𝕕𝕖𝕤: 𝕂𝕟𝕠𝕨𝕟 𝕀𝕞𝕒𝕘𝕖𝕤
 </div>
 
     import face_recognition

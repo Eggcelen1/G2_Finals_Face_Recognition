@@ -22,7 +22,7 @@
     !pip install face_recognition
     %cd G2_Finals_Face_Recognition
 ---
-## ➣ 𝐄𝐧𝐜𝐨𝐝𝐢𝐧𝐠 𝐏𝐫𝐨𝐟𝐢𝐥𝐞𝐬 𝐔𝐬𝐢𝐧𝐠 𝐊𝐧𝐨𝐰𝐧 𝐅𝐚𝐜𝐞 𝐈𝐦𝐚𝐠𝐞𝐬
+## ➣ 𝕮𝖔𝖉𝖊𝖘 𝖚𝖘𝖎𝖓𝖌 𝕶𝖓𝖔𝖜𝖓 𝕴𝖒𝖆𝖌𝖊𝖘
 
     import face_recognition
     import numpy as np

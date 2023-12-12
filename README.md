@@ -1,4 +1,16 @@
-# G2_Finals_Face_Recognition
+<div align = "center">
+   
+# 𝔾𝕣𝕠𝕦𝕡 𝕀𝕀
+
+</div>
+<div align = "center">
+   
+## 𝔽𝕚𝕟𝕒𝕝𝕤: 𝔽𝕒𝕔𝕖 ℝ𝕖𝕔𝕠𝕘𝕟𝕚𝕥𝕚𝕠𝕟
+
+</div>
+
+
+
 
 <p align="center"> 
    <img src="https://github.com/Eggcelen1/G2_Finals_Face_Recognition/assets/144224540/b50c98e6-e585-40a4-9b70-08b5a2faca23">
@@ -7,22 +19,30 @@
 <p align="center"> 
    <img src="https://github.com/Eggcelen1/G2_Finals_Face_Recognition/assets/144224540/8b179e76-f93d-49b8-aa58-92e217d2a576">
 </p>
+<div align = "center">
+   
+## 𝕀𝕟𝕥𝕣𝕠𝕕𝕦𝕔𝕥𝕚𝕠𝕟: 𝔽𝕒𝕞𝕠𝕦𝕤 ℂ𝕙𝕖𝕗𝕤 𝕚𝕟 𝕥𝕙𝕖 𝕎𝕠𝕣𝕝𝕕
 
+</div>
 <div align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;The world of gastronomy boasts an array of culinary maestros whose artistry transcends borders and tantalizes taste buds globally. From pioneers of nouvelle cuisine to modern-day culinary revolutionaries, the pantheon of famous chefs is a testament to innovation, creativity, and a relentless pursuit of culinary perfection. Visionaries like Gordon Ramsay, known for his fiery passion and unparalleled expertise, and the late Anthony Bourdain, whose exploration of global cuisines ignited a cultural culinary dialogue, have left an indelible mark on the industry. Meanwhile, culinary virtuosos such as Massimo Bottura, celebrated for his avant-garde approach to Italian cuisine, and Heston Blumenthal, a pioneer of molecular gastronomy, continually push the boundaries of culinary imagination. These luminaries, among many others, stand as beacons of inspiration, shaping the way we perceive, savor, and celebrate food worldwide.
 
-&nbsp;&nbsp;&nbsp;&nbsp;The Group is tasked in this work to develop a face recognition program that can recognize these notable personalities. This technology must be sophisticated enough to distinguish both well-known chefs and up-and-coming chefs who are creating a name for themselves in the culinary world. This project builds on the previous one, which involves creating an interactive dashboard. Now, the emphasis is on recognizing the faces of culinary specialists, whether they are behind the stoves of their world-famous restaurants or portrayed in the media wearing the distinctive chef whites that represent their vocation.
-
-### **The group will utilize the following codes provided below:**
+### 𝕌𝕥𝕚𝕝𝕚𝕫𝕚𝕟𝕘 𝕥𝕙𝕖 𝕗𝕠𝕝𝕝𝕠𝕨𝕚𝕟𝕘 𝕔𝕠𝕕𝕖𝕤 𝕡𝕣𝕠𝕧𝕚𝕕𝕖𝕕 𝕓𝕖𝕝𝕠𝕨:
 ---
 </div>
+<div align = "center">
+   
+##  𝔾𝕚𝕥𝕙𝕦𝕓 𝕒𝕤 𝕊𝕠𝕦𝕣𝕔𝕖
+</div>
 
-## ➣ 𝐈𝐦𝐩𝐨𝐫𝐭𝐢𝐧𝐠 𝐈𝐦𝐚𝐠𝐞𝐬 𝐟𝐫𝐨𝐦 𝐆𝐢𝐭𝐡𝐮𝐛 𝐚𝐧𝐝 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐢𝐧𝐠 𝐅𝐚𝐜𝐞 𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧
     !git clone https://github.com/Eggcelen1/G2_Finals_Face_Recognition.git
     !pip install face_recognition
     %cd G2_Finals_Face_Recognition
 ---
-## ➣ 𝕮𝖔𝖉𝖊𝖘 𝖚𝖘𝖎𝖓𝖌 𝕶𝖓𝖔𝖜𝖓 𝕴𝖒𝖆𝖌𝖊𝖘
+<div align = "center">
+   
+##  ℂ𝕠𝕕𝕖𝕤 𝕌𝕤𝕚𝕟𝕘 𝕂𝕟𝕠𝕨𝕟 𝕀𝕞𝕒𝕘𝕖𝕤
+</div>
 
     import face_recognition
     import numpy as np
@@ -61,7 +81,11 @@
                     "Giada De Laurentiis",
     ]
 --- 
-## ➣ 𝐑𝐮𝐧𝐧𝐢𝐧𝐠 𝐨𝐟 𝐅𝐚𝐜𝐞 𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧 𝐨𝐧 𝐭𝐡𝐞 𝐅𝐚𝐦𝐨𝐮𝐬 𝐂𝐡𝐞𝐟 𝐢𝐧 𝐭𝐡𝐞 𝐖𝐨𝐫𝐥𝐝
+<div align = "center">
+   
+##  𝐑𝐮𝐧𝐧𝐢𝐧𝐠 𝐨𝐟 𝐅𝐚𝐜𝐞 𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧 𝐨𝐧 𝐭𝐡𝐞 𝐅𝐚𝐦𝐨𝐮𝐬 𝐂𝐡𝐞𝐟 𝐢𝐧 𝐭𝐡𝐞 𝐖𝐨𝐫𝐥𝐝
+
+</div>
 
     file_name = ""
     unknown_image = face_recognition.load_image_file(file_name)
@@ -84,32 +108,32 @@
 
     cv2_imshow(unknown_image_to_draw)
 ---
-# 𝐏𝐡𝐨𝐭𝐨 𝐨𝐟 𝐊𝐧𝐨𝐰𝐧 𝐅𝐚𝐦𝐨𝐮𝐬 𝐂𝐡𝐞𝐟𝐬 𝐢𝐧 𝐭𝐡𝐞 𝐖𝐨𝐫𝐥𝐝
+# ℙ𝕙𝕠𝕥𝕠 𝕠𝕗 𝕂𝕟𝕠𝕨𝕟 𝔽𝕒𝕞𝕠𝕦𝕤 ℂ𝕙𝕖𝕗𝕤 𝕚𝕟 𝕥𝕙𝕖 𝕎𝕠𝕣𝕝𝕕
 <p align="center"> 
  <img src="https://github.com/Eggcelen1/G2_Finals_Face_Recognition/assets/144224540/33d5b8d5-bffe-451e-9a53-afdc6c70d005")
 </p>
 
-  ## 👨‍🍳𝐆𝐨𝐫𝐝𝐨𝐧 𝐑𝐚𝐦𝐬𝐚𝐲
+  ## 👨‍🍳𝔾𝕠𝕣𝕕𝕠𝕟 ℝ𝕒𝕞𝕤𝕒𝕪
 ➣ Gordon James Ramsay OBE is a British celebrity chef, restaurateur, television presenter, and writer. His restaurant group, Gordon Ramsay Restaurants, was founded in 1997 and has been awarded seventeen Michelin stars overall and currently holds seven.
 <p align="center"> 
  <img src="https://github.com/Eggcelen1/G2_Finals_Face_Recognition/assets/144224540/9b96d19b-3e97-4db6-96fb-2e8b8ecf1814")
 </p>
 
-## 👨‍🍳𝐉𝐚𝐦𝐢𝐞 𝐎𝐥𝐢𝐯𝐞𝐫
+## 👨‍🍳𝕁𝕒𝕞𝕚𝕖 𝕆𝕝𝕚𝕧𝕖𝕣
 ➣ Jamie Trevor Oliver MBE OSI is a British celebrity chef, restaurateur and cookbook author. He is known for his casual approach to cuisine, which has led him to front numerous television shows and open many restaurants. Oliver reached the public eye when his series The Naked Chef premiered in 1999. 
 
 <p align="center"> 
  <img src="https://github.com/Eggcelen1/G2_Finals_Face_Recognition/assets/144224540/6bce7c18-ae13-41c0-a39e-b9dc20759748")
 </p>
 
-## 👨‍🍳𝐁𝐨𝐛𝐛𝐲 𝐅𝐥𝐚𝐲
+## 👨‍🍳𝔹𝕠𝕓𝕓𝕪 𝔽𝕝𝕒𝕪
 ➣ Robert William Flay is an American celebrity chef, restaurateur, and reality television personality. Flay is the owner and executive chef of several restaurants and franchises, including Bobby's Burger Palace, Bobby's Burgers, and Amalfi
 
 <p align="center"> 
  <img src="https://github.com/Eggcelen1/G2_Finals_Face_Recognition/assets/144224540/f6e947c4-31e4-43e0-9aca-acf33da04a52")
 </p>
 
-  ## 👨‍🍳𝐆𝐮𝐲 𝐅𝐢𝐞𝐫𝐢 
+  ## 👨‍🍳𝔾𝕦𝕪 𝔽𝕚𝕖𝕣𝕚
 ➣ Guy Ramsay Fieri is an American restaurateur, author, and an Emmy Award winning television presenter. He co-owned three now defunct restaurants in California, licenses his name to restaurants in cities all over the world, and is known for hosting various television series on the Food Network.  
 
 <p align="center"> 
@@ -117,83 +141,83 @@
 </p>
 
 
-## 👩‍🍳𝐆𝐢𝐚𝐝𝐚 𝐃𝐞 𝐋𝐚𝐮𝐫𝐞𝐧𝐭𝐢𝐢𝐬 
+## 👩‍🍳𝔾𝕚𝕒𝕕𝕒 𝔻𝕖 𝕃𝕒𝕦𝕣𝕖𝕟𝕥𝕚𝕚𝕤
 ➣ Giada Pamela De Laurentiis is an Italian American chef, entrepreneur, writer, and television personality. She was the host of Food Network's program called Giada at Home. She also appears regularly as a contributor and guest co-host on NBC's program entitled Today
 
 ---
 
-# 👨‍🍳👩‍🍳𝐔𝐧𝐤𝐧𝐨𝐰𝐧 𝐅𝐚𝐦𝐨𝐮𝐬 𝐂𝐡𝐞𝐟𝐬
+# 👨‍🍳👩‍🍳𝕌𝕟𝕜𝕟𝕠𝕨𝕟: 𝔽𝕒𝕞𝕠𝕦𝕤 ℂ𝕙𝕖𝕗𝕤
 ➣ These are the chefs who are unknown but famous
 
-## 𝐂𝐡𝐞𝐟 1
+## ℂ𝕙𝕖𝕗 # 𝟙🍳
 <p align="center"> 
  <img src="https://github.com/Eggcelen1/G2_Finals_Face_Recognition/assets/144224540/dc0c15d9-c018-4945-98e2-198aff9dd67c")
 </p>
   
 ---
 
- ## 𝐂𝐡𝐞𝐟  2
+ ## ℂ𝕙𝕖𝕗  # 𝟚🍳
 <p align="center"> 
  <img src="https://github.com/Eggcelen1/G2_Finals_Face_Recognition/assets/144224540/2f6258f1-ba83-41b2-a963-a0125b9022da")
 </p>
   
 ---
 
- ## 𝐂𝐡𝐞𝐟 3 
+ ## ℂ𝕙𝕖𝕗 # 𝟛🍳
 <p align="center"> 
  <img src="https://github.com/Eggcelen1/G2_Finals_Face_Recognition/assets/144224540/778d0958-f6e0-4cab-9d42-791e6f8b67ed")
 </p>
   
 ---
 
-## 𝐂𝐡𝐞𝐟 4
+## ℂ𝕙𝕖𝕗 # 𝟜🍳
 <p align="center"> 
  <img src="https://github.com/Eggcelen1/G2_Finals_Face_Recognition/assets/144224540/768346b6-b9e9-419c-b02d-addf35295c19")
 </p>
   
 ---
 
-## 𝐂𝐡𝐞𝐟 5
+## ℂ𝕙𝕖𝕗 # 𝟝🍳
 <p align="center"> 
  <img src="https://github.com/Eggcelen1/G2_Finals_Face_Recognition/assets/144224540/d5bb61c6-3566-4a3f-850e-ee53850de5f7")
 </p>
   
 ---
 
-## 𝐂𝐡𝐞𝐟 6
+## ℂ𝕙𝕖𝕗 # 𝟞🍳
 <p align="center"> 
  <img src="https://github.com/Eggcelen1/G2_Finals_Face_Recognition/assets/144224540/819a0e42-9010-4f0b-84a2-cff30c5fbd91")
 </p>
   
 --- 
 
-## 𝐂𝐡𝐞𝐟 7
+## ℂ𝕙𝕖𝕗 # 𝟟🍳
 <p align="center"> 
  <img src="https://github.com/Eggcelen1/G2_Finals_Face_Recognition/assets/144224540/fa12486d-7ab9-48af-833a-a0e07e4e233d")
 </p>
   
 ---
 
- ## 𝐂𝐡𝐞𝐟  8
+ ## ℂ𝕙𝕖𝕗 # 𝟠🍳
 <p align="center"> 
  <img src="https://github.com/Eggcelen1/G2_Finals_Face_Recognition/assets/144224540/993eb993-29ce-48b9-b4b7-5f10d5e2aba5")
 </p>
   
 ---
 
-## 𝐂𝐡𝐞𝐟 9
+## ℂ𝕙𝕖𝕗 # 𝟡🍳
 <p align="center"> 
  <img src="https://github.com/Eggcelen1/G2_Finals_Face_Recognition/assets/144224540/d2d20d8c-acb8-4d31-9da3-b268ea0ec586")
 </p>
   
 -----
 
- ## 𝐂𝐡𝐞𝐟 10
+ ## ℂ𝕙𝕖𝕗 # 𝟙𝟘🍳
 <p align="center"> 
  <img src="https://github.com/Eggcelen1/G2_Finals_Face_Recognition/assets/144224540/d4eb6e06-1147-45b6-ac98-c9879fd3eac7")
 </p>
 
-# 🔗𝐑𝐞𝐟𝐞𝐫𝐞𝐧𝐜𝐞𝐬
+# 🔗ℝ𝕖𝕗𝕖𝕣𝕖𝕟𝕔𝕖𝕤
 - https://www.pinterest.ph/pin/192810427789537923/
 - https://www.pinterest.ph/pin/314477986494739998/
 - https://www.pinterest.ph/pin/28851253840343842/

@@ -124,60 +124,71 @@
 
 # 👨‍🍳👩‍🍳𝐔𝐧𝐤𝐧𝐨𝐰𝐧 𝐅𝐚𝐦𝐨𝐮𝐬 𝐂𝐡𝐞𝐟𝐬
 ➣ These are the chefs who are unknown but famous
+
+## 𝐂𝐡𝐞𝐟 1
 <p align="center"> 
  <img src="https://github.com/Eggcelen1/G2_Finals_Face_Recognition/assets/144224540/dc0c15d9-c018-4945-98e2-198aff9dd67c")
 </p>
   
 ---
-  
+
+ ## 𝐂𝐡𝐞𝐟  2
 <p align="center"> 
  <img src="https://github.com/Eggcelen1/G2_Finals_Face_Recognition/assets/144224540/2f6258f1-ba83-41b2-a963-a0125b9022da")
 </p>
   
 ---
-  
+
+ ## 𝐂𝐡𝐞𝐟 3 
 <p align="center"> 
  <img src="https://github.com/Eggcelen1/G2_Finals_Face_Recognition/assets/144224540/778d0958-f6e0-4cab-9d42-791e6f8b67ed")
 </p>
   
 ---
 
+## 𝐂𝐡𝐞𝐟 4
 <p align="center"> 
  <img src="https://github.com/Eggcelen1/G2_Finals_Face_Recognition/assets/144224540/768346b6-b9e9-419c-b02d-addf35295c19")
 </p>
   
 ---
 
+## 𝐂𝐡𝐞𝐟 5
 <p align="center"> 
  <img src="https://github.com/Eggcelen1/G2_Finals_Face_Recognition/assets/144224540/d5bb61c6-3566-4a3f-850e-ee53850de5f7")
 </p>
   
 ---
 
+## 𝐂𝐡𝐞𝐟 6
 <p align="center"> 
  <img src="https://github.com/Eggcelen1/G2_Finals_Face_Recognition/assets/144224540/819a0e42-9010-4f0b-84a2-cff30c5fbd91")
 </p>
   
----
+--- 
 
+## 𝐂𝐡𝐞𝐟 7
 <p align="center"> 
  <img src="https://github.com/Eggcelen1/G2_Finals_Face_Recognition/assets/144224540/fa12486d-7ab9-48af-833a-a0e07e4e233d")
 </p>
   
 ---
-  
+
+ ## 𝐂𝐡𝐞𝐟  8
 <p align="center"> 
  <img src="https://github.com/Eggcelen1/G2_Finals_Face_Recognition/assets/144224540/993eb993-29ce-48b9-b4b7-5f10d5e2aba5")
 </p>
   
 ---
-  
+
+## 𝐂𝐡𝐞𝐟 9
 <p align="center"> 
  <img src="https://github.com/Eggcelen1/G2_Finals_Face_Recognition/assets/144224540/d2d20d8c-acb8-4d31-9da3-b268ea0ec586")
 </p>
   
 -----
-  
+
+ ## 𝐂𝐡𝐞𝐟 10
 <p align="center"> 
  <img src="https://github.com/Eggcelen1/G2_Finals_Face_Recognition/assets/144224540/d4eb6e06-1147-45b6-ac98-c9879fd3eac7")
 </p>

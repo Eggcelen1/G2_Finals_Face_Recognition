@@ -17,10 +17,14 @@
 </p>
 
 <p align="center"> 
-   <img src="https://github.com/Eggcelen1/G2_Finals_Face_Recognition/assets/144224540/8b179e76-f93d-49b8-aa58-92e217d2a576">
+   <img src="https://github.com/Eggcelen1/G2_Finals_Face_Recognition/assets/144224540/d330952b-f7f5-4939-908f-314df846531e">
+</p>
+
+<p align="center"> 
+    <img src="https://github.com/Eggcelen1/G2_Finals_Face_Recognition/assets/144224540/76321fc4-489e-4f20-afa4-8704875f04b5")
 </p>
 <div align = "center">
-   
+
 ## 𝕀𝕟𝕥𝕣𝕠𝕕𝕦𝕔𝕥𝕚𝕠𝕟: 𝔽𝕒𝕞𝕠𝕦𝕤 ℂ𝕙𝕖𝕗𝕤 𝕚𝕟 𝕥𝕙𝕖 𝕎𝕠𝕣𝕝𝕕
 
 </div>
@@ -83,7 +87,7 @@
 --- 
 <div align = "center">
    
-##  𝐑𝐮𝐧𝐧𝐢𝐧𝐠 𝐨𝐟 𝐅𝐚𝐜𝐞 𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧 𝐨𝐧 𝐭𝐡𝐞 𝐅𝐚𝐦𝐨𝐮𝐬 𝐂𝐡𝐞𝐟 𝐢𝐧 𝐭𝐡𝐞 𝐖𝐨𝐫𝐥𝐝
+##  ℂ𝕠𝕕𝕖𝕤: 𝔽𝕒𝕔𝕖 ℝ𝕖𝕔𝕠𝕘𝕟𝕚𝕥𝕚𝕠𝕟 𝕠𝕗 𝔽𝕒𝕞𝕠𝕦𝕤 ℂ𝕙𝕖𝕗𝕤 𝕚𝕟 𝕥𝕙𝕖 𝕎𝕠𝕣𝕝𝕕
 
 </div>
 
@@ -108,7 +112,7 @@
 
     cv2_imshow(unknown_image_to_draw)
 ---
-# ℙ𝕙𝕠𝕥𝕠 𝕠𝕗 𝕂𝕟𝕠𝕨𝕟 𝔽𝕒𝕞𝕠𝕦𝕤 ℂ𝕙𝕖𝕗𝕤 𝕚𝕟 𝕥𝕙𝕖 𝕎𝕠𝕣𝕝𝕕
+# 𝕂𝕟𝕠𝕨𝕟: 𝔽𝕒𝕞𝕠𝕦𝕤 ℂ𝕙𝕖𝕗𝕤 𝕚𝕟 𝕥𝕙𝕖 𝕎𝕠𝕣𝕝𝕕
 <p align="center"> 
  <img src="https://github.com/Eggcelen1/G2_Finals_Face_Recognition/assets/144224540/33d5b8d5-bffe-451e-9a53-afdc6c70d005")
 </p>

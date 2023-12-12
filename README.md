@@ -119,19 +119,28 @@
 
   ## 👨‍🍳𝔾𝕠𝕣𝕕𝕠𝕟 ℝ𝕒𝕞𝕤𝕒𝕪
 ➣ Gordon James Ramsay OBE is a British celebrity chef, restaurateur, television presenter, and writer. His restaurant group, Gordon Ramsay Restaurants, was founded in 1997 and has been awarded seventeen Michelin stars overall and currently holds seven.
+
+---
+
 <p align="center"> 
  <img src="https://github.com/Eggcelen1/G2_Finals_Face_Recognition/assets/144224540/9b96d19b-3e97-4db6-96fb-2e8b8ecf1814")
 </p>
 
+
 ## 👨‍🍳𝕁𝕒𝕞𝕚𝕖 𝕆𝕝𝕚𝕧𝕖𝕣
 ➣ Jamie Trevor Oliver MBE OSI is a British celebrity chef, restaurateur and cookbook author. He is known for his casual approach to cuisine, which has led him to front numerous television shows and open many restaurants. Oliver reached the public eye when his series The Naked Chef premiered in 1999. 
+
+---
 
 <p align="center"> 
  <img src="https://github.com/Eggcelen1/G2_Finals_Face_Recognition/assets/144224540/6bce7c18-ae13-41c0-a39e-b9dc20759748")
 </p>
 
+
 ## 👨‍🍳𝔹𝕠𝕓𝕓𝕪 𝔽𝕝𝕒𝕪
 ➣ Robert William Flay is an American celebrity chef, restaurateur, and reality television personality. Flay is the owner and executive chef of several restaurants and franchises, including Bobby's Burger Palace, Bobby's Burgers, and Amalfi
+
+---
 
 <p align="center"> 
  <img src="https://github.com/Eggcelen1/G2_Finals_Face_Recognition/assets/144224540/f6e947c4-31e4-43e0-9aca-acf33da04a52")
@@ -139,6 +148,8 @@
 
   ## 👨‍🍳𝔾𝕦𝕪 𝔽𝕚𝕖𝕣𝕚
 ➣ Guy Ramsay Fieri is an American restaurateur, author, and an Emmy Award winning television presenter. He co-owned three now defunct restaurants in California, licenses his name to restaurants in cities all over the world, and is known for hosting various television series on the Food Network.  
+
+---
 
 <p align="center"> 
  <img src="https://github.com/Eggcelen1/G2_Finals_Face_Recognition/assets/144224540/b5d4542b-1027-4be2-9145-1053509e7e38")
